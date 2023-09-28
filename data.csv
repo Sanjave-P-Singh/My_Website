@@ -1,20 +1,20 @@
 title;description;url;image
-Todo App; A distraction-free web app to help you focus on creating and completeing tasks;
-Portfolio Website; A website built entirely in Python to showcase coding projects and apps;
-PDF Invoices; A script that reads invoice records from Excel files and automatically generates PDF invoices;
-PDF Templates; A script that generates PDF templates of multiple pages given some predefined guidelines;
-Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only;
-Weather API; A REST API built with python and Flask to serve historical wather data for various cities;
-Download Cleaner; A script that monitors the Downloads folder and deletes old files keeping the folder in order;
-Tour Scraper; A program that checks a music band's website and sends an email when there are new tours;
-Helper Chatbot; A chatbot that knows about a specifc topic and answers questions regarding that topic;
-Open Domain Chatbot; A chatbot that can discuss anything with a human and is bult using...;
-Webcam Motion Detector; A program that monitors the computer webcam and sends an email when a new object...;
-Typing Analyzer; A program that monitors the computer keyboard and returns the most typed words of the...;
-Internet Speed Analysis; A program that records the internet speed every few seconds and polts the values;
-Monitoring Data; A program that monitors a particular website and periodically records the data to a ...;
-Visualizing Data;
-Visualizinf Weather Forecast;
-Student Management System;
-School Management System;
-Restaurant Menu Web App;
+Todo App; A distraction-free web app to help you focus on creating and completeing tasks;https://pythonhow.com;1.png
+Portfolio Website; A website built entirely in Python to showcase coding projects and apps;https://pythonhow.com;2.png
+PDF Invoices; A script that reads invoice records from Excel files and automatically generates PDF invoices;https://pythonhow.com;3.png
+PDF Templates; A script that generates PDF templates of multiple pages given some predefined guidelines;https://pythonhow.com;4.png
+Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only;https://pythonhow.com;5.png
+Weather API; A REST API built with python and Flask to serve historical wather data for various cities;https://pythonhow.com;6.png
+Download Cleaner; A script that monitors the Downloads folder and deletes old files keeping the folder in order;https://pythonhow.com;7.png
+Tour Scraper; A program that checks a music band's website and sends an email when there are new tours;https://pythonhow.com;8.png
+Helper Chatbot; A chatbot that knows about a specifc topic and answers questions regarding that topic;https://pythonhow.com;9.png
+Open Domain Chatbot; A chatbot that can discuss anything with a human and is bult using...;https://pythonhow.com;10.png
+Webcam Motion Detector; A program that monitors the computer webcam and sends an email when a new object...;https://pythonhow.com;11.png
+Typing Analyzer; A program that monitors the computer keyboard and returns the most typed words of the...;https://pythonhow.com;12.png
+Internet Speed Analysis; A program that records the internet speed every few seconds and polts the values;https://pythonhow.com;13.png
+Monitoring Data; A program that monitors a particular website and periodically records the data to a ...;https://pythonhow.com;14.png
+Visualizing Data; A program that visualizes the data collected in the previous monitoring program;https://pythonhow.com;15.png
+Visualizing Weather Forecast; A data web app that visualizes the weather forecast for the next five days;https://pythonhow.com;16.png
+Student Management System; A desktop PyQt6 GUI app for managing universiy data with an SQL data;https://pythonhow.com;17.png
+School Management System; A desktop PytQt6 GUI app for managing complex universiry data with an SQL data;https://pythonhow.com;18.png
+Restaurant Menu Web App; A Django web app to let customers see a restaurant menu and meal availability;https://pythonhow.com;19.png
