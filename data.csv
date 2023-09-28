@@ -1,0 +1,20 @@
+title;description;url;image
+Todo App; A distraction-free web app to help you focus on creating and completeing tasks;
+Portfolio Website; A website built entirely in Python to showcase coding projects and apps;
+PDF Invoices; A script that reads invoice records from Excel files and automatically generates PDF invoices;
+PDF Templates; A script that generates PDF templates of multiple pages given some predefined guidelines;
+Positive News Site; A website that gets data from a news API and uses sentiment analysis to publish only;
+Weather API; A REST API built with python and Flask to serve historical wather data for various cities;
+Download Cleaner; A script that monitors the Downloads folder and deletes old files keeping the folder in order;
+Tour Scraper; A program that checks a music band's website and sends an email when there are new tours;
+Helper Chatbot; A chatbot that knows about a specifc topic and answers questions regarding that topic;
+Open Domain Chatbot; A chatbot that can discuss anything with a human and is bult using...;
+Webcam Motion Detector; A program that monitors the computer webcam and sends an email when a new object...;
+Typing Analyzer; A program that monitors the computer keyboard and returns the most typed words of the...;
+Internet Speed Analysis; A program that records the internet speed every few seconds and polts the values;
+Monitoring Data; A program that monitors a particular website and periodically records the data to a ...;
+Visualizing Data;
+Visualizinf Weather Forecast;
+Student Management System;
+School Management System;
+Restaurant Menu Web App;

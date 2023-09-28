@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas
 
 st.set_page_config(layout = "wide")
 
@@ -10,7 +11,7 @@ with col1:
 with col2:
     st.title("Sanjave P. Singh")
     content = """
-    "I'm Sanjave Pritipaul Singh, a senior computer engineering student at the City 
+    "Hello my name is Sanjave Pritipaul Singh, a senior computer engineering student at the City 
     College of New York. I'm deeply passionate about technology and its transformative impact. 
     I'm also intrigued by electrical engineering. As I approach graduation, I'm excited to contribute to the world of engineering."
     """
@@ -20,3 +21,18 @@ content2 = """
 Below you can find some of the apps I have built in python. Feel free to contact me!
 """
 st.write(content2)
+
+col3, col4 = st.columns(2)
+
+df = pandas.read_csv("data.csv",sep=";")
+
+with col3:
+    for index, row in df[:10].iterrows():
+        st.header(row["title"])
+
+
+with col4:
+    for index, row in df[10:].iterrows():
+        st.header(row["title"])
+
+
