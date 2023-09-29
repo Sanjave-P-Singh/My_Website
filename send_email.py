@@ -11,10 +11,10 @@ def send_email(message):
         server.starttls()
 
         # Log in to the SMTP server with your credentials
-        server.login('your_email@example.com', 'your_password')  # Update with your email and password
+        server.login('sanjave_singh25@gmail.com', 'your_password')
 
         # Send the email
-        sender = 'your_email@example.com'  # Update with your email address
+        sender = 'sanjave_singh25@gmail.com' 
         receiver = 'recipient@example.com'  # Update with the recipient's email address
         server.sendmail(sender, receiver, message)
 
