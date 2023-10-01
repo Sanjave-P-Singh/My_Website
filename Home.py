@@ -16,12 +16,6 @@ with col2:
     I'm also intrigued by electrical engineering. As I approach graduation, I'm excited to contribute to the world of engineering."
     """
 
-    content2 = """
-Please don't hesitate to reach out to me using the email provided.\n
-Below, you'll find a selection of Python applications I've created.
-"""
-st.write(content2)
-
     st.info(content)
 
     email_address = "mailto:ssingh025@citymail.cuny.edu"
@@ -43,6 +37,12 @@ st.write(content2)
     st.markdown(
         f"<div style='text-align: center; margin-bottom: 24px'><a href='{github_url}' style='font-size: 24px;'>Github</a></div>",
         unsafe_allow_html=True)
+    
+    content2 = """
+Please don't hesitate to reach out to me using the email provided.\n
+Below, you'll find a selection of Python applications I've created.
+"""
+st.write(content2)
     
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
