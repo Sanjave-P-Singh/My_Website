@@ -37,8 +37,8 @@ with col2:
         unsafe_allow_html=True)
     
 content2 = """
-Below you can find some of the apps I have built in python. \n
-Feel free to contact me at the email mentioned above.
+Please don't hesitate to reach out to me using the email provided.\n
+Below, you'll discover a selection of Python applications I've created.
 """
 st.write(content2)
 
