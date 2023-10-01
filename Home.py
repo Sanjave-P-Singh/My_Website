@@ -25,17 +25,17 @@ with col2:
 
     # Email Address link
     st.markdown(
-        f"<div style='text-align: center; margin-top: 24px; margin-bottom: 24px;'><a href='{email_address}' style='font-size: 24px;'>Email Address</a></div>",
+        f"<div style='text-align: center; margin-top: 30px; margin-bottom: 28px;'><a href='{email_address}' style='font-size: 26px;'>Email Address</a></div>",
         unsafe_allow_html=True)
 
     # LinkedIn link
     st.markdown(
-        f"<div style='text-align: center; margin-bottom: 24px;'><a href='{linkedin_url}' style='font-size: 24px;'>LinkedIn</a></div>",
+        f"<div style='text-align: center; margin-bottom: 28px;'><a href='{linkedin_url}' style='font-size: 26px;'>LinkedIn</a></div>",
         unsafe_allow_html=True)
 
     # GitHub link
     st.markdown(
-        f"<div style='text-align: center; margin-bottom: 24px'><a href='{github_url}' style='font-size: 24px;'>Github</a></div>",
+        f"<div style='text-align: center; margin-bottom: 28px'><a href='{github_url}' style='font-size: 26px;'>Github</a></div>",
         unsafe_allow_html=True)
     
     content2 = """
