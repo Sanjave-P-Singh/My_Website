@@ -15,14 +15,19 @@ with col2:
     College of New York. I'm deeply passionate about technology and its transformative impact. 
     I'm also intrigued by electrical engineering. As I approach graduation, I'm excited to contribute to the world of engineering."
     """
+
+    content2 = """
+Please don't hesitate to reach out to me using the email provided.\n
+Below, you'll find a selection of Python applications I've created.
+"""
+st.write(content2)
+
     st.info(content)
 
     email_address = "mailto:ssingh025@citymail.cuny.edu"
     linkedin_url = "https://www.linkedin.com/in/sanjave-singh-77043a162/"
     github_url = "https://github.com/Sanjave-P-Singh"
-    
-content2 = """
-Please don't hesitate to reach out to me using the email provided.\n
+
 
     # Email Address link
     st.markdown(
@@ -39,9 +44,6 @@ Please don't hesitate to reach out to me using the email provided.\n
         f"<div style='text-align: center; margin-bottom: 24px'><a href='{github_url}' style='font-size: 24px;'>Github</a></div>",
         unsafe_allow_html=True)
     
-Below, you'll find a selection of Python applications I've created.
-"""
-st.write(content2)
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 
