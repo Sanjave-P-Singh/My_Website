@@ -38,7 +38,7 @@ with col2:
     
 content2 = """
 
-Please don't hesitate to reach out to me using the email provided.
+Please don't hesitate to reach out to me using the email provided. \n
 Below, you'll find a selection of Python applications I've created.
 """
 st.write(content2)
