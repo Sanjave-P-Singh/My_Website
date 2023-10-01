@@ -17,6 +17,12 @@ with col2:
     """
     st.info(content)
 
+    content2 = """
+
+Please don't hesitate to reach out to me using the email provided.
+"""
+st.write(content2)
+
     email_address = "mailto:ssingh025@citymail.cuny.edu"
     linkedin_url = "https://www.linkedin.com/in/sanjave-singh-77043a162/"
     github_url = "https://github.com/Sanjave-P-Singh"
@@ -36,12 +42,10 @@ with col2:
         f"<div style='text-align: center; margin-bottom: 24px'><a href='{github_url}' style='font-size: 24px;'>Github</a></div>",
         unsafe_allow_html=True)
     
-content2 = """
-
-Please don't hesitate to reach out to me using the email provided. \n
+content3 = """
 Below, you'll find a selection of Python applications I've created.
 """
-st.write(content2)
+st.write(content3)
 
 col3, empty_col, col4 = st.columns([1.5, 0.5, 1.5])
 
