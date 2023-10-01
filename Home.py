@@ -20,6 +20,9 @@ with col2:
     email_address = "mailto:ssingh025@citymail.cuny.edu"
     linkedin_url = "https://www.linkedin.com/in/sanjave-singh-77043a162/"
     github_url = "https://github.com/Sanjave-P-Singh"
+    
+content2 = """
+Please don't hesitate to reach out to me using the email provided.\n
 
     # Email Address link
     st.markdown(
@@ -36,8 +39,6 @@ with col2:
         f"<div style='text-align: center; margin-bottom: 24px'><a href='{github_url}' style='font-size: 24px;'>Github</a></div>",
         unsafe_allow_html=True)
     
-content2 = """
-Please don't hesitate to reach out to me using the email provided.\n
 Below, you'll find a selection of Python applications I've created.
 """
 st.write(content2)
