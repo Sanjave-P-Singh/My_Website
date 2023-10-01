@@ -53,7 +53,7 @@ with col3:
         st.write(f"[Source Code]({row['url']})")
 
 with col4:
-    for index, row in df[3:4].iterrows():
+    for index, row in df[2:4].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/" + row["image"])
