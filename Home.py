@@ -37,8 +37,9 @@ with col2:
         unsafe_allow_html=True)
     
 content2 = """
-- Please don't hesitate to reach out to me using the email provided.
-- Below, you'll discover a selection of Python applications I've created.
+
+Please don't hesitate to reach out to me using the email provided.
+Below, you'll find a selection of Python applications I've created.
 """
 st.write(content2)
 
