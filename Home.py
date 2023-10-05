@@ -26,7 +26,7 @@ with col2:
 
     # Email Address link
     st.markdown(
-        f"<div style='text-align: center; margin-top: 15px; margin-bottom: 28px;'><a href='{email_address}' style='font-size: 26px;'>Email Address</a></div>",
+        f"<div style='text-align: center; margin-bottom: 28px;'><a href='{email_address}' style='font-size: 26px;'>Email Address</a></div>",
         unsafe_allow_html=True)
 
     # LinkedIn link
