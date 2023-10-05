@@ -17,7 +17,7 @@ with col2:
     """
 
     st.info(content)
-
+   
     st.subheader("Contact me: ")
     email_address = "mailto:ssingh025@citymail.cuny.edu"
     linkedin_url = "https://www.linkedin.com/in/sanjave-singh-77043a162/"
